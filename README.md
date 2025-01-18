@@ -1,2 +1,4 @@
 # PRODIGY_DS_01
-Visualizing the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+Task 1
+
+![Screenshot 2025-01-18 211244](https://github.com/user-attachments/assets/6acd71e6-b790-4d5e-9e13-4802d77eb2d4)
